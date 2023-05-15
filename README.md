@@ -50,7 +50,7 @@ Check out links for more details:
 
 ### 📫 Contact me
 
-Email: anton.konu@gmail.com
-Skype: antonioplaton
-LinkedIn: https://www.linkedin.com/in/tonykonu/
-Telegram: https://t.me/TonyKayo
+Email: anton.konu@gmail.com<br />
+Skype: antonioplaton<br />
+LinkedIn: https://www.linkedin.com/in/tonykonu/<br />
+Telegram: https://t.me/TonyKayo<br />
