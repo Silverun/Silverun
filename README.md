@@ -4,7 +4,7 @@
 
 My main tech stack currently is HTML, CSS\SCSS, JavaScript, Typescript, Node.js, React, Next.js.<br />
 I am familiar with CSS frameworks, toolkits and component libraries like Bootstrap, React Bootstrap, Tailwind, MUI, Primereact.<br />
-On the Backend I have mostly used Express and Socket.io, worked with MySQL, MongoDB and Firebase databases, ORMs like Prisma and Sequelize. Proficient user of Git and Github.
+On the Backend I have mostly used Express and Socket.io, worked with MySQL, MongoDB and Firebase databases, ORMs like Prisma and Sequelize. I am well acquainted with REST APIs and HTTP, different authentication and authorization methods, JWT and cookies, aware of basic security practices. Proficient user of Git and Github.
 
 ### 📁 My Latest Projects
 
