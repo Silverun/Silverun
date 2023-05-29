@@ -11,6 +11,7 @@ On the Backend I have mostly used Express and Socket.io, worked with MySQL, Mong
 
 Check out links for more details:
 
+- [Job board website](https://github.com/Silverun/jobsapp)
 - [Twitter clone app](https://github.com/Silverun/twitter-clone)
 - [XO tic tac toe game](https://github.com/Silverun/x_o-client)
 - [Collector website](https://github.com/Silverun/collector-client)
